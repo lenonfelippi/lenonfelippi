@@ -3,7 +3,7 @@
 <div>
   <p>Tenho mais de 13 anos de experiência profissional em diversas áreas relacionadas à tecnologia. Especificamente, tenho aproximadamente 4 anos de experiência dedicada 100% ao desenvolvimento front-end.</p>
   <p>Ao longo da minha carreira, adquiri uma ampla gama de habilidades que vão além do desenvolvimento front-end, incluindo um pouco de back-end, marketing e design de interfaces. Essa experiência diversificada me permite abordar projetos com uma perspectiva única, pensando no cliente final.</p>
-  <p>Tenho expertise em trabalhar com várias tecnologias, incluindo React.js, Next.js, Vue.js, Jest, HTML, CSS, LESS, SASS, JavaScript, TypeScript, Tailwind CSS, bootstrap, Figma, Web3, Git e GitHub, entre outras. Além disso, estou sempre disposto a aprender novas tecnologias.</p>
+  <p>á trabalhei com várias tecnologias, incluindo React.js, Next.js, Vue.js, Jest, HTML, CSS, LESS, SASS, JavaScript, TypeScript, Tailwind CSS, bootstrap, Figma, Git e GitHub, entre outras. Além disso, estou sempre disposto a aprender novas tecnologias.</p>
   <p>Minha paixão pelo desenvolvimento front-end combinada com minha experiência em marketing e design de interfaces me torna um candidato forte para qualquer equipe. Estou sempre procurando novos desafios e oportunidades para expandir ainda mais minhas habilidades e contribuir para projetos inovadores.</p>
   <p>Se você está procurando um desenvolvedor front-end dedicado com experiência real, estou à disposição para conectar e discutir como posso contribuir para o seu sucesso.</p>
 <div>
